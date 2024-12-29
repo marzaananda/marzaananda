@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm not working with anyone until now I work for myself now, even now<br>👯 I'd love to collaborate if you guys want<br>🤝 I’m looking for help with<br>🌱 I am learning to be better than before (actually I'm learning typescript language and react framework)<br>💬 Ask me about, ANYTHING (if you are interested ask me)<br>⚡ no fun facts for me, I just want to get better at coding now for the rest of my life
+🔭 I'm not working with anyone until now,I work for myself now, even now<br>👯 I'd love to collaborate if you guys want<br>🤝 I’m looking for help with<br>🌱 I am learning to be better than before (actually I'm learning typescript language and react framework)<br>💬 Ask me about, ANYTHING (if you are interested ask me)<br>⚡ no fun facts for me, I just want to get better at coding now for the rest of my life
 
 
 ## 🌐 Socials:
