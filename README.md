@@ -13,7 +13,7 @@ I apologize if my bio is too harsh. But I'm serious, I want to be able to code
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marzaananda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=marzaananda&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marzaananda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
