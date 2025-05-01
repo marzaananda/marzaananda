@@ -15,10 +15,5 @@ I apologize if my bio is too harsh. But I'm serious, I want to be able to code
 ![](https://nirzak-streak-stats.vercel.app/?user=marzaananda&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marzaananda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=marzaananda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
