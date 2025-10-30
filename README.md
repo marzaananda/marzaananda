@@ -13,6 +13,6 @@ I apologize if my bio is too harsh. But I'm serious, I want to be able to code
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=marzaananda&theme=dark&hide_border=true)<br/>
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=marzaananda)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
