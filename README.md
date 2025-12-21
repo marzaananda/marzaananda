@@ -1,10 +1,11 @@
 ```js
 const info = "I'm still studying informatics, let me write code in peace PLEASE!!!";
-const dumb = "Still sharpening my coding logic"
+const dumb = "Still sharpening my coding logic";
 
-note*
+const note = "I apologize if my bio is too harsh. But I'm serious, I want to be able to code";
+console.log(info,dumb,note);
 
-I apologize if my bio is too harsh. But I'm serious, I want to be able to code
+
 ```
 
 ## 🌐 Socials:
