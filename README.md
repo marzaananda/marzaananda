@@ -8,7 +8,6 @@ console.log(info,dumb,note);
 
 ```
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deonzt_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-marza-ananda-0a3145309/)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=marzaananda&theme=dark&hide_border=true)<br/>
